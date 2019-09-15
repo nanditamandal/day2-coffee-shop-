@@ -1,0 +1,10 @@
+E:\c#\coffe_shop\coffe_shop\bin\Debug\coffe_shop.exe.config
+E:\c#\coffe_shop\coffe_shop\bin\Debug\coffe_shop.exe
+E:\c#\coffe_shop\coffe_shop\bin\Debug\coffe_shop.pdb
+E:\c#\coffe_shop\coffe_shop\obj\Debug\coffe_shop.csprojAssemblyReference.cache
+E:\c#\coffe_shop\coffe_shop\obj\Debug\coffe_shop.Properties.Resources.resources
+E:\c#\coffe_shop\coffe_shop\obj\Debug\coffe_shop.csproj.GenerateResource.cache
+E:\c#\coffe_shop\coffe_shop\obj\Debug\coffe_shop.csproj.CoreCompileInputs.cache
+E:\c#\coffe_shop\coffe_shop\obj\Debug\coffe_shop.exe
+E:\c#\coffe_shop\coffe_shop\obj\Debug\coffe_shop.pdb
+E:\c#\coffe_shop\coffe_shop\obj\Debug\coffe_shop.Coffeeshop.resources
